@@ -1,0 +1,5 @@
+commit 4b789772c3ef82eedc5fcac6d4cbe3775fe26226
+Author: Aseel_almohammad <aseelmalkawi853@gmail.com>
+Date:   Sat Oct 3 11:22:18 2026 -0400
+
+    Add hello.txt
